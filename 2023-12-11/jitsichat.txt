@@ -1,0 +1,53 @@
+Update: can we postpone the friday-call to monday? It turned my wife's
+sister has her wedding (and I completely forgot while talking to you)
+
+> Clearly though, between the vocabulary and complexity it, sadly iMHO,
+didn't "blow up". It's quite abstract yet I believe they are the only true
+"metaverse" implementation.
+
+The direction is indeed cool.
+I guess Activitypub is nice for slow realtime comms (which is often good
+enough), I guess they used NAF for spatial syncing.
+Matrix protocol seems to allow for all of that in one (thirdroom e.g.)
+which is pretty impressive.
+I guess in both cases (human) bandwidth is hard to push these things
+forward.
+Sortof the reason why I kept the scope of 
+https://xrfragments.org
+ very
+small.
+
+I've added one thing to the agenda:
+
+next meeting:
+- how do we communicate efficiently with a trace
+- selfhosted repo (forgejo/gitea e.g.) + GH/GL locked mirror-repo's?
+- how meta do we want to go and use xrsh itself to collaborate
+- accessibility services/lab NLnet
+- shelltype-dropdown in XR terminal
+
+Why? In order for it to be useful for various kinds of people/accessibility.
+How? include a dropdown to switch between "linux", "huggingface/GPT4ALL",
+"MUSH" e.g.
+Especially the MUSH-example might be THE textual escape-hatch for people
+with screenreaders to access XR.
+Jens (of Interpeer) mentioned to me that these MUD's already solved so much
+accessibility issues.
+I totally forgot about that...but they are also a SHELL.
+Perhaps you can read this article before next meeting:
+https://www.howtogeek.com/661428/text-based-vr-explore-the-pioneering-world-of-mushes
+
+
+Imagine sending the terminal-text to a huggingface MeshGPT-model, [...] 
+me says:* upload own audio to media-repo 
+me says:* github repo as funnel for selfhosted 
+me says:login-via-github 
+me says:ayllu 
+me says:fossil/gitea/forgejo 
+me says:nginx-proxy-manager 
+me says:
+https://github.com/facundoolano/rpg-cli
+ 
+me says:
+https://github.com/coderofsalvation/xrsh
+ 
